@@ -1,8 +1,6 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="проверка777", T.ME/REVOLYO
+#EXTINF:-1 group-title="оьновился ли", T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 
--------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T.ME/REVOLYO" tvg-logo="" group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?",T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
@@ -213,7 +211,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2023/04/024614b06bdfdc2444ef5229fab8773c.png" group-title="Развлечения",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
--------------------------------------------------------------
+
 
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://only4.tv/ch/822.png" group-title="Развлечения",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
