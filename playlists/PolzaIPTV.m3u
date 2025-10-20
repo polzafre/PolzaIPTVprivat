@@ -3,6 +3,24 @@
 #EXTINF:-1 group-title="Инфо",T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" channelId="1",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" channelId="2",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" channelId="6",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="rentv" channelId="11",Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="mir" channelId="138",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="tvcentr" channelId="13",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+
 #EXTINF:-1 group-title="Общие",8 Канал HD
 http://185.91.177.13/8channel/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
