@@ -247,8 +247,132 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 http://217.21.34.160:38003/illuzionplus/index.m3u8
 #EXTINF:-1 group-title="КИНО", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-
-
+#EXTINF:-1 group-title="КИНО", Криминальное HD / Saga TV
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1 group-title="КИНО", Suspense / Камеди / KION Хит / DetectiveJam / Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 group-title="КИНО", Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="КИНО", День Победы HD / Kinojam 1 / Kinojam 2 / Видеокассета HD / VHS-ка
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:-1 group-title="КИНО", Остросюжетное / Cinema / Космос ТВ / Cinema HD
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинеко
+http://194.143.148.28:8080/KINEKO/index.m3u8
+#EXTINF:-1 group-title="КИНО", Русский бестселлер / Русский детектив
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="КИНО", Русский Иллюзион
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Русский роман
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="КИНО", Родное кино
+http://46.8.46.14/retro/index.m3u8
+#EXTINF:-1 group-title="КИНО", Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="КИНО", Любимое Кино HD / Душевное HD / Про Любовь HD / Лавстори HD / Романтичное HD / Fox
+http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="КИНО", Fox Life
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="КИНО", FilmBox HD
+http://188.190.222.53/FilmBOX/index.m3u8
+#EXTINF:-1 group-title="КИНО", Shot TV
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:-1 group-title="КИНО", FilmBox ArtHouse HD / Kinoliving HD
+http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", TV XXI
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="КИНО", Иллюзион+ HD
+http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1 group-title="КИНО", FlixSnip / Kino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="КИНО", Русская комедия / Black HD
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="КИНО", .Red HD
+http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Amedia 1 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="КИНО", Amedia 2 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="КИНО", FAN
+http://31.148.48.15/Fan/index.m3u8
+#EXTINF:-1 group-title="КИНО", FAN HD / Bollywood HD / Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="КИНО", Индийское Кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="КИНО", HollywooD HD
+http://194.32.242.245/hollywoodhd/index.m3u8
+#EXTINF:-1 group-title="КИНО", Viju TV1000 Action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="КИНО", Viju TV1000 русское кино
+http://95.85.109.219:7000/play/a08x
+#EXTINF:-1 group-title="КИНО", Viju+ Comedy HD
+http://87.246.54.249:8085/Viju_Comedy/mpegts
+#EXTINF:-1 group-title="КИНО", Viju+ Serial HD
+http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Star Family
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Дорама HD
+http://95.85.109.219:7000/play/a05v
+#EXTINF:-1 group-title="КИНО", Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Киносвидание HD
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Кино ТВ HD
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Киносемья HD
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 group-title="КИНО", Киносат HD / Pro100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="КИНО", Дом Кино Премиум HD / Мосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="КИНО", Мужское Кино HD
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="КИНО", Наш кинопоказ HD / Мир Сериала
+http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 group-title="КИНО", Феникс+Кино
+http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Еврокино HD
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", Комедийное HD / Кинокомедия HD
+http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Plan B
+http://195.64.140.147:10082/82
+#EXTINF:-1 group-title="КИНО", НСТ / 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", 312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", Timeless Dizi Channel HD / Trash TV
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="КИНО", Scream / Film Best TV
+http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
+#EXTINF:-1 group-title="КИНО", SeleCaoTV 1
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+#EXTINF:-1 group-title="КИНО", KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+#EXTINF:-1 group-title="КИНО", LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", SeriesTV
+http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+#EXTINF:-1 group-title="КИНО", FMC
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+#EXTINF:-1 group-title="КИНО", МУЛЬТИКИ И СКАЗКИ
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+#EXTINF:-1 group-title="КИНО", Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО", Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="КИНО", Alpha Funny
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="КИНО", Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="КИНО", УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ / SCRIPACH TV
+https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
 
 
 
